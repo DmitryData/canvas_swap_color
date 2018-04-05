@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">canvas_SQUARE_swap_color</string>
+    <string name="swap_color">Swap Color</string>
 </resources>
